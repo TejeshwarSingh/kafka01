@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=Zq8aMrRnvQE
+https://github.com/conduktor/kafka-stack-docker-compose/tree/master
+
+
+https://conduktor.io/download
+
+docker-compose up -d
+
+docker-compose down
